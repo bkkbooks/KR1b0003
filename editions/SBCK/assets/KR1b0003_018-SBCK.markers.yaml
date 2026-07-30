@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR1b0003/SBCK/v1/markers/18
 seq: 18
 markers:
-  front:
+  body:
   - {type: 'kr:newline', offset: 0, content: '
 
       ', id: KR1b0003_SBCK_018-bkkkrnewl1}
@@ -3247,15 +3247,14 @@ markers:
 
       ', id: KR1b0003_SBCK_018-bkkkrnewl811}
   - {type: line-break, offset: 15486, content: '', id: KR1b0003_SBCK_018-26a11}
-  body:
-  - {type: 'kr:newline', offset: 0, content: '
+  - {type: 'kr:newline', offset: 15494, content: '
 
       ', id: KR1b0003_SBCK_018-bkkkrnewl1}
-  - {type: line-break, offset: 0, content: '', id: KR1b0003_SBCK_018-26a12}
-  - {type: indent, offset: 0, content: 　　　　　　　　　　　　　, id: KR1b0003_SBCK_018-bkkind1}
-  - {type: paragraph-break, offset: 11, content: '
+  - {type: line-break, offset: 15494, content: '', id: KR1b0003_SBCK_018-26a12}
+  - {type: indent, offset: 15494, content: 　　　　　　　　　　　　　, id: KR1b0003_SBCK_018-bkkind1}
+  - {type: paragraph-break, offset: 15505, content: '
 
 
       ', id: KR1b0003_SBCK_018-bkkp1}
   back: []
-hash: sha256:0d95047752a5ab5b75ceb8ba16b49a66786f74d8ccaeb610e760dc8bd60f3c4f
+hash: sha256:0f492d66e626b54689d4713b574b14d41a490d2c98c3f733ea0200010e2a09c7

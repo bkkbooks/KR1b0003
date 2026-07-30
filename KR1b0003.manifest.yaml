@@ -38,7 +38,7 @@ assets:
   - {seq: 15, filename: KR1b0003_015.yaml, hash: 'sha256:30630eaa9f32da122117f9fe964a1735d35c5d57e43dd0da181f13084e476829'}
   - {seq: 16, filename: KR1b0003_016.yaml, hash: 'sha256:f6bb21707b94e512fc030cbb05d0f4af41c8bfbb1ec960b01e62f3f4b4e159f4'}
   - {seq: 17, filename: KR1b0003_017.yaml, hash: 'sha256:4eb72134efb78fd4b0f151d0803aa808f34ebbb9c68d980cbcfb8b323b618b4f'}
-  - {seq: 18, filename: KR1b0003_018.yaml, hash: 'sha256:d5a445d1c31bf5759c0b8b0b286d1fda1280676da3dab527dbbf5151b03cd47a'}
+  - {seq: 18, filename: KR1b0003_018.yaml, hash: 'sha256:d111c092cfe634d7f046035b422cf4850da7798d43c30d605ed8e0ced71fb27e'}
   - {seq: 19, filename: KR1b0003_019.yaml, hash: 'sha256:5ff8e70163d055d4807e339439c7a66c325cfa9f8b4e03471b0e7d6384f78256'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR1b0003_000.markers.yaml, hash: 'sha256:f662cd8d6e627a80bf88724262d559e0e50071572c0bb8f32bc8483e468c56d1'}
@@ -59,7 +59,7 @@ assets:
   - {seq: 15, role: markers, filename: assets/KR1b0003_015.markers.yaml, hash: 'sha256:b9a2efe3e42e13687d3c16cc178457e7afeb4a971e36310f9e95b28182c733a4'}
   - {seq: 16, role: markers, filename: assets/KR1b0003_016.markers.yaml, hash: 'sha256:31cd7828bea99d4323c6ef1bb0c7f3b873e5b76315c2d8d5e1d6f44f50a2f928'}
   - {seq: 17, role: markers, filename: assets/KR1b0003_017.markers.yaml, hash: 'sha256:677ef1ee078b9a5754bbd826dc3f7303e10392840fb5280fc2c0c19676eacd85'}
-  - {seq: 18, role: markers, filename: assets/KR1b0003_018.markers.yaml, hash: 'sha256:8aac013043e1147044a838b305e7fd99b2179faf64a717fd01093d3069dddf97'}
+  - {seq: 18, role: markers, filename: assets/KR1b0003_018.markers.yaml, hash: 'sha256:a5c1da9412e3cc9f86914b6f417ee812ac03cb862ec41c09f5d1e0d904650bf8'}
   - {seq: 19, role: markers, filename: assets/KR1b0003_019.markers.yaml, hash: 'sha256:8b65f6ecfcc8fc69b92cc5a3088d4f8e0d9382c37133d25c34668204ce72c254'}
 table_of_contents:
 - ref:
@@ -247,8 +247,8 @@ table_of_contents:
     marker_id: KR1b0003_SBCK_018-1a
     span:
     - body
-    - 0
-    - 11
+    - 15494
+    - 15505
   label: juan 018
   type: section
   level: 1
@@ -262,7 +262,7 @@ table_of_contents:
   label: juan 019
   type: section
   level: 1
-hash: sha256:d2448c2d031fbf8151967b11beb505af5fbaa25911ea2da2cacedbcad8afd389
+hash: sha256:93f799dbc56171353e537c7c60e2dc5fea4827bc9f0304fe8e0b64f5a82d3344
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
